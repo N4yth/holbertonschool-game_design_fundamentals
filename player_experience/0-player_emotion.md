@@ -22,3 +22,5 @@ Le jeu nous met de l’angoisse avec un timer au-dessus de la tête, une épée 
 
 Il y a un aspect survie avec de la nourriture, l’eau, la température, les maladies et l’odeur (qui peut attirer des zombies), qui met aussi une pression supplémentaire avec la quête obligatoire de nourriture et d’eau, parfois de médicaments, ce qui permet au jeu de faire en sorte que son joueur soit obligé de naviguer dans le monde et de ressentir toutes ces émotions, ainsi que la simple tension de ne pas avoir de nourriture et d’eau ou de puer en pleine nuit, ce qui attire les zombies, ou encore d’être recherché par des zombies et d’être blessé. Le jeu, sans préparer des scénarios, crée une tension naturelle très grande et intense.
 
+Il y a aussi tout un aspect level-up, tuant des zombie, réparant des blocks, améliorant des blocks, craftant et bien d autre façon. Ce qui nous permet d'avoir tout une dimension de progression via les compétence passive que l'on peu déverrouiller tout du long de la survie.
+
