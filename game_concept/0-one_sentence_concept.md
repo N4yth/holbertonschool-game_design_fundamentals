@@ -1,1 +1,1 @@
-Le joueur doit ce preparer chaque jour et chaque nuit a la horde qui se rapproche irresistiblement, pour cela il doit rassembler des ressources afin de cree une base ou renforcer un batiment existant.
+Le joueur doit ce preparer chaque jour et chaque nuit a la horde qui se rapproche irresistiblement, pour cela il doit rassembler des ressources afin de cree une base ou renforcer un batiment existant, tout cela pour survir 7 jour de plus.
