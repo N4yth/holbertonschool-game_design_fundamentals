@@ -1,0 +1,2 @@
+Le joueur doit ce preparer chaque jour et chaque nuit a la horde qui se rapproche irresistiblement, pour cela il doit rassembler des ressources afin de cree une base ou renforcer un batiment existant. 
+[toto](https://github.com/N4yth/holbertonschool-unity/blob/main/unity-animation/Assets/Scripts/PlayerController.cs)
