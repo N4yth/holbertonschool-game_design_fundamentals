@@ -1,0 +1,3 @@
+Le joueur n’a qu’un seul but : survivre. Il peut lui-même se fixer ses propres objectifs, car le jeu n’impose pas de but clair (si ce n’est quelques petits défis). Le joueur peut décider de construire un château entier, de découvrir l’intégralité de la carte, d’atteindre le jour 200, le niveau maximum, ou encore de relever d’autres défis. Le challenge est donc entièrement libre et dépend des choix du joueur.
+
+Il sait qu’il progresse dans le jeu grâce aux niveaux, à la difficulté croissante des zombies, à l’augmentation du nombre de jours, preuve qu’il survit depuis longtemps, ainsi qu’à leur nombre toujours plus élevé. Des nouveaux type de zombie peuvent apparaitre ainsi que different Biome deviennent accessible plus facilement mais aussi plus dur.

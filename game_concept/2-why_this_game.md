@@ -1,0 +1,3 @@
+Ce jeu mélange plusieurs styles qui sont rarement associés : survival, building, horror, RPG et crafting. Le principe de devoir survivre à des vagues infinies peut rappeler les tower defense des jeux mobiles. Néanmoins, la difficulté, ainsi que l’immersion, rendent l’expérience d’autant plus plaisante.
+
+Le joueur peut facilement s’identifier à son personnage et s’immerger dans une apocalypse où il doit gérer son camp afin de survivre à une mort qui semble inévitable.
