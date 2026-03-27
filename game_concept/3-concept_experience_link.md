@@ -1,6 +1,5 @@
-Le jeu offre aux joueur un monde ouvert pour la sensation de liberte, le jeu etant entierement destructible offre d'autant plus de liberter au joueur de manipuler le terrain ou les batiment existant.
+Le jeu offre aux joueurs un monde ouvert qui renforce la sensation de liberté. Le fait que l’environnement soit entièrement destructible donne encore plus de possibilités au joueur, lui permettant de modifier le terrain ou les bâtiments existants selon ses besoins.
 
-Le jeux offre de la tension avec les hordes recurante mais meme sans cela les music ou les effets sonore peuvent procurer de la tension, le crie des zombie ou leur emplacement dans des batiment en ruine cree enoremment de tension lorsque le joueur se promene dans le mond.
+Le jeu propose également une forte tension, notamment grâce aux hordes récurrentes. Mais même en dehors de celles-ci, la musique et les effets sonores contribuent à créer une atmosphère oppressante. Les cris des zombies ou leur présence dans des bâtiments en ruine génèrent énormément de tension lorsque le joueur explore le monde.
 
-Le joueur pogresse a travers le jeux via des niveaux, l'xp est gagner en recuperant des ressoucre tuant des zombie completant des quete, et de nombreuse autre maniere. Le joueur peux voir en temps reel qu'elle niveau il est. Les zombie s'adapte a son niveau ce qu'il fais que plus le jouruer deviens fort plus les zombie aussi ce qui ne le laisse jamais dans une situation de faciliter.
-
+Le joueur progresse à travers le jeu grâce à un système de niveaux. L’expérience est gagnée en récoltant des ressources, en tuant des zombies, en complétant des quêtes, et de nombreuses autres manières. Le joueur peut voir en temps réel son niveau évoluer. De plus, les zombies s’adaptent à son niveau : plus le joueur devient fort, plus les ennemis le deviennent également, ce qui empêche toute sensation de facilité.
